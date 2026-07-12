@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hii I'm Ayush Ahirrao,
+
 🎓 AI Diploma Student | 🤖 Machine Learning & Deep Learning Enthusiast | 🐍 Python Developer | 🚀 Learning TensorFlow, PyTorch & GenAI | 💡 Building AI Projects
 
 
