@@ -33,9 +33,6 @@
 
 </div>
 
----
-
-```text
  █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
 ██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
 ███████║ ╚████╔╝ ██║   ██║███████╗███████║
@@ -44,11 +41,9 @@
 ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
         A I   •   M L   •   D E E P   L E A R N I N G
-```
 
-## `> SYSTEM.IDENTITY`
+> SYSTEM.IDENTITY
 
-```python
 class AIEngineerInProgress:
 
     def __init__(self):
@@ -75,19 +70,15 @@ class AIEngineerInProgress:
 
     def status(self):
         return "Constantly Learning..."
-```
-
----
 
 <div align="center">
 
-# 🧠 `NEURAL PATHWAY`
+🧠 NEURAL PATHWAY
 
-### My journey toward intelligent systems
+My journey toward intelligent systems
 
 <br>
 
-```text
 ╭──────────────╮
 │    PYTHON    │
 ╰──────┬───────╯
@@ -119,71 +110,110 @@ class AIEngineerInProgress:
 ╭──────────────╮
 │  AGENTIC AI  │  🚀 FINAL DESTINATION
 ╰──────────────╯
-```
 
 </div>
 
----
-
-# ⚡ `CURRENT_PROCESS`
+⚡ CURRENT_PROCESS
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🧠 LEARNING
+🧠 LEARNING
 
-`Deep Learning`
+Deep Learning
 
-`Neural Networks`
+Neural Networks
 
-`TensorFlow`
+TensorFlow
 
-`PyTorch`
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔨 BUILDING
-
-`ML Systems`
-
-`AI Applications`
-
-`Backend APIs`
-
-`Neural Networks`
+PyTorch
 
 </td>
 
 <td width="33%" align="center">
 
-### 🔮 NEXT
+🔨 BUILDING
 
-`Transformers`
+ML Systems
 
-`LLMs`
+AI Applications
 
-`RAG`
+Backend APIs
 
-`AI Agents`
+Neural Networks
+
+</td>
+
+<td width="33%" align="center">
+
+🔮 NEXT
+
+Transformers
+
+LLMs
+
+RAG
+
+AI Agents
 
 </td>
 </tr>
 </table>
 
----
-
-# 🚀 `PROJECT.EXE`
+🚀 PROJECT.EXE
 
 <div align="center">
 
-### ⚡ Things I've actually built — not tutorial graveyards.
+⚡ Things I've actually built — not tutorial graveyards.
 
 </div>
 
 <table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🚦 SMART ACCIDENT RISK PREDICTOR</h2>
+
+<div align="center">
+
+ML RISK PREDICTION SYSTEM
+
+</div>
+
+<br>
+
+Machine-learning project for predicting accident risk/severity from road and environmental conditions.
+
+PROJECT LINK
+
+🔗 View Repository
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">📉 STARTUP FAILURE PREDICTION</h2>
+
+<div align="center">
+
+ML RISK PREDICTION ENGINE
+
+</div>
+
+<br>
+
+Machine-learning system for predicting startup failure and shutdown risk using startup and founder indicators.
+
+PROJECT LINK
+
+🔗 View Repository
+
+</td>
+
+</tr>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -192,160 +222,54 @@ class AIEngineerInProgress:
 
 <div align="center">
 
-`SMART LOCATION SYSTEM`
+SMART LOCATION SYSTEM
 
 </div>
 
 <br>
 
-A smart application for discovering nearby **Petrol, CNG & EV charging stations** using real-world location data.
+A smart application for discovering nearby Petrol, CNG & EV charging stations using real-world location data.
 
-**SYSTEM STACK**
+PROJECT LINK
 
-`Firebase` • `Maps` • `APIs` • `JavaScript`
-
-**CORE**
-
-🌍 Location Intelligence
-⚡ Real-time Station Discovery
-🔥 Firebase Backend
-🗺️ Map Integration
-
-<br>
-
-<div align="center">
-
-**STATUS → `DEPLOYED ⚡`**
-
-</div>
+🔗 View Repository
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2 align="center">📉 STARTUP AI</h2>
+<h2 align="center">🧠 STROKE WEBSITE</h2>
 
 <div align="center">
 
-`ML RISK PREDICTION ENGINE`
+STROKE AWARENESS PLATFORM
 
 </div>
 
 <br>
 
-Machine-learning system that analyzes startup and founder indicators to predict **shutdown risk**.
+An educational web platform focused on stroke awareness, learning resources, and therapeutics information.
 
-**SYSTEM STACK**
+PROJECT LINK
 
-`Python` • `Pandas` • `Scikit-Learn` • `ML`
-
-**CORE**
-
-🧠 Predictive Modeling
-📊 Business Intelligence
-⚙️ Feature Engineering
-📈 Risk Analysis
-
-<br>
-
-<div align="center">
-
-**STATUS → `TRAINED 🧠`**
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2 align="center">🤖 INGRES AI</h2>
-
-<div align="center">
-
-`INTELLIGENT GROUNDWATER ASSISTANT`
-
-</div>
-
-<br>
-
-AI chatbot designed to assist with **groundwater resource estimation** and intelligent information retrieval.
-
-**SYSTEM STACK**
-
-`Python` • `AI APIs` • `LLMs` • `Backend`
-
-**CORE**
-
-💧 Groundwater Intelligence
-💬 Conversational Interface
-🤖 AI Assistance
-⚙️ API Integration
-
-<br>
-
-<div align="center">
-
-**STATUS → `ONLINE 🤖`**
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2 align="center">🧠 NEURAL LAB</h2>
-
-<div align="center">
-
-`DEEP LEARNING EXPERIMENTS`
-
-</div>
-
-<br>
-
-My experimental playground for understanding and implementing **neural-network architectures**.
-
-**SYSTEM STACK**
-
-`TensorFlow` • `PyTorch` • `Python`
-
-**EXPERIMENTS**
-
-⚡ ANN
-👁️ CNN
-🔁 RNN
-🧠 LSTM / GRU
-
-<br>
-
-<div align="center">
-
-**STATUS → `TRAINING... 🔥`**
-
-</div>
+🔗 View Repository
 
 </td>
 
 </tr>
 </table>
 
----
-
-# 🧰 `TECH.ARSENAL`
+🧰 TECH.ARSENAL
 
 <div align="center">
 
-### `{ LANGUAGES }`
+{ LANGUAGES }
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html&theme=dark"/>
 
 <br><br>
 
-### `{ AI / DEEP LEARNING }`
+{ AI / DEEP LEARNING }
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 
@@ -355,29 +279,26 @@ My experimental playground for understanding and implementing **neural-network a
 
 <br><br>
 
-### `{ BACKEND / DATA }`
+{ BACKEND / DATA }
 
 <img src="https://skillicons.dev/icons?i=fastapi,firebase,supabase,mysql,sqlite&theme=dark"/>
 
 <br><br>
 
-### `{ CLOUD }`
+{ CLOUD }
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify&theme=dark"/>
 
 <br><br>
 
-### `{ DEV TOOLS }`
+{ DEV TOOLS }
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
----
+🧠 KNOWLEDGE.MAP
 
-# 🧠 `KNOWLEDGE.MAP`
-
-```text
 ╔══════════════════════════════════════════════════════════╗
 ║                  AYUSH // AI MATRIX                     ║
 ╠══════════════════════════════════════════════════════════╣
@@ -396,11 +317,8 @@ My experimental playground for understanding and implementing **neural-network a
 ║  Agentic AI          ██░░░░░░░░░░░░░░░░░░   TARGET     ║
 ║                                                        ║
 ╚══════════════════════════════════════════════════════════╝
-```
 
----
-
-# 📡 `GITHUB.TELEMETRY`
+📡 GITHUB.TELEMETRY
 
 <div align="center">
 
@@ -414,9 +332,7 @@ My experimental playground for understanding and implementing **neural-network a
 
 </div>
 
----
-
-# 🌌 `CONTRIBUTION.UNIVERSE`
+🌌 CONTRIBUTION.UNIVERSE
 
 <div align="center">
 
@@ -424,9 +340,7 @@ My experimental playground for understanding and implementing **neural-network a
 
 </div>
 
----
-
-# 🏆 `ACHIEVEMENTS.UNLOCKED`
+🏆 ACHIEVEMENTS.UNLOCKED
 
 <div align="center">
 
@@ -434,11 +348,8 @@ My experimental playground for understanding and implementing **neural-network a
 
 </div>
 
----
+🛰️ MISSION.ROADMAP
 
-# 🛰️ `MISSION.ROADMAP`
-
-```mermaid
 flowchart LR
     ML["🧠 Machine Learning<br/>COMPLETED"]
     DL["🔥 Deep Learning<br/>CURRENT"]
@@ -454,15 +365,11 @@ flowchart LR
     LLM --> RAG
     RAG --> AG
     AG --> AA
-```
 
----
-
-# 💭 `PHILOSOPHY.LOG`
+💭 PHILOSOPHY.LOG
 
 <div align="center">
 
-```text
 > WHY_AI.txt
 
 I don't want to simply call an AI API
@@ -480,19 +387,16 @@ Then...
 I want to build systems that are actually useful.
 
                         — Ayush
-```
 
 </div>
 
----
-
 <div align="center">
 
-## `> CONNECTION_REQUEST`
+> CONNECTION_REQUEST
 
-### Got an interesting AI idea?
+Got an interesting AI idea?
 
-**Let's build something that shouldn't exist yet.**
+Let's build something that shouldn't exist yet.
 
 <br>
 
@@ -502,7 +406,6 @@ I want to build systems that are actually useful.
 
 <br><br>
 
-```text
 while (alive) {
     learn();
     build();
@@ -510,9 +413,8 @@ while (alive) {
     debug();
     improve();
 }
-```
 
-### `SYSTEM STATUS: ONLINE 🟢`
+SYSTEM STATUS: ONLINE 🟢
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&customColorList=12,14,18,20,24&section=footer"/>
 
