@@ -129,6 +129,7 @@ class AIEngineerInProgress:
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### 🧠 LEARNING
@@ -170,6 +171,7 @@ class AIEngineerInProgress:
 `AI Agents`
 
 </td>
+
 </tr>
 </table>
 
@@ -184,45 +186,54 @@ class AIEngineerInProgress:
 </div>
 
 <table>
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h2 align="center">🚦 SMART ACCIDENT RISK PREDICTOR</h2>
+<h2>🚦 SMART ACCIDENT RISK PREDICTOR</h2>
 
-<div align="center">
+<code>ML RISK PREDICTION SYSTEM</code>
 
-`ML RISK PREDICTION SYSTEM`
+<br><br>
 
-</div>
+Machine-learning project for predicting <b>accident risk/severity</b> from road and environmental conditions.
 
-<br>
+<br><br>
 
-Machine-learning project for predicting **accident risk/severity** from road and environmental conditions.
+<b>PROJECT LINK</b>
 
-**PROJECT LINK**
+<br><br>
 
-[🔗 View Repository](https://github.com/ayushahirrao2007/Smart_Accident_Risk_Predictor)
+<a href="https://github.com/ayushahirrao2007/Smart_Accident_Risk_Predictor">
+🔗 <b>View Repository</b>
+</a>
+
+<br><br>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h2 align="center">📉 STARTUP FAILURE PREDICTION</h2>
+<h2>📉 STARTUP FAILURE PREDICTION</h2>
 
-<div align="center">
+<code>ML RISK PREDICTION ENGINE</code>
 
-`ML RISK PREDICTION ENGINE`
+<br><br>
 
-</div>
+Machine-learning system for predicting <b>startup failure and shutdown risk</b> using startup and founder indicators.
 
-<br>
+<br><br>
 
-Machine-learning system for predicting **startup failure and shutdown risk** using startup and founder indicators.
+<b>PROJECT LINK</b>
 
-**PROJECT LINK**
+<br><br>
 
-[🔗 View Repository](https://github.com/ayushahirrao2007/Startup-Failure_prediction)
+<a href="https://github.com/ayushahirrao2007/Startup-Failure_prediction">
+🔗 <b>View Repository</b>
+</a>
+
+<br><br>
 
 </td>
 
@@ -230,47 +241,56 @@ Machine-learning system for predicting **startup failure and shutdown risk** usi
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h2 align="center">⛽ FUELSYNC</h2>
+<h2>⛽ FUELSYNC</h2>
 
-<div align="center">
+<code>SMART LOCATION SYSTEM</code>
 
-`SMART LOCATION SYSTEM`
+<br><br>
 
-</div>
+A smart application for discovering nearby <b>Petrol, CNG & EV charging stations</b> using real-world location data.
 
-<br>
+<br><br>
 
-A smart application for discovering nearby **Petrol, CNG & EV charging stations** using real-world location data.
+<b>PROJECT LINK</b>
 
-**PROJECT LINK**
+<br><br>
 
-[🔗 View Repository](https://github.com/ayushahirrao2007/FuelSync)
+<a href="https://github.com/ayushahirrao2007/FuelSync">
+🔗 <b>View Repository</b>
+</a>
+
+<br><br>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h2 align="center">🧠 STROKE WEBSITE</h2>
+<h2>🧠 STROKE WEBSITE</h2>
 
-<div align="center">
+<code>STROKE AWARENESS PLATFORM</code>
 
-`STROKE AWARENESS PLATFORM`
+<br><br>
 
-</div>
+An educational web platform focused on <b>stroke awareness, learning resources, and therapeutics information</b>.
 
-<br>
+<br><br>
 
-An educational web platform focused on **stroke awareness, learning resources, and therapeutics information**.
+<b>PROJECT LINK</b>
 
-**PROJECT LINK**
+<br><br>
 
-[🔗 View Repository](https://github.com/ayushahirrao2007/Stroke_WebsiteMain)
+<a href="https://github.com/ayushahirrao2007/Stroke_WebsiteMain">
+🔗 <b>View Repository</b>
+</a>
+
+<br><br>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
