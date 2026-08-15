@@ -1,140 +1,117 @@
-<!-- ===================== FUTURISTIC AI PROFILE ===================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,14,18,20,24&text=AYUSH%20AHIRRAO&fontColor=ffffff&fontSize=55&animation=fadeIn&stroke=00E5FF&strokeWidth=1&desc=Building%20Intelligence%20%E2%80%A2%20One%20Model%20at%20a%20Time&descSize=18&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0C29,50:302B63,100:24243E&text=AYUSH%20AHIRRAO&fontColor=00F5D4&fontSize=60&fontAlignY=40&desc=Architecting%20Intelligence%20%7C%20AI%20%2F%20ML%20Engineer%20in%20Training&descAlignY=62&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%3E+Initializing+AI+Developer...;%3E+Machine+Learning+%E2%9C%93;%3E+Deep+Learning+Loading...;%3E+Generative+AI+Next...;%3E+Agentic+AI+is+the+Destination+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&repeat=true&width=850&height=50&lines=building+with+machine+learning...;training+neural+networks...;reaching+toward+transformers+%2B+LLMs...;engineering+agentic+AI+systems...;still+learning.+always+building." />
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00E5FF?style=for-the-badge&labelColor=050810"/>
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-8A2BE2?style=for-the-badge&labelColor=050810"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-FF2D95?style=for-the-badge&labelColor=050810"/>
+`Diploma in Artificial Intelligence`&nbsp;&nbsp;•&nbsp;&nbsp;`AI / ML Developer`&nbsp;&nbsp;•&nbsp;&nbsp;`India 🇮🇳`
 
-<br><br>
+<br/>
 
-<a href="https://linkedin.com/in/ayush-ahirrao-548942369/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/ayush._.ahirrao_23">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://x.com/ahirrao6113">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:ayushahirrao4@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-ahirrao-548942369/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayush._.ahirrao_23)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahirrao6113)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushahirrao4@gmail.com)
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ayushahirrao2007&label=SYSTEM+VISITORS&color=00e5ff&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=ayushahirrao2007&label=PROFILE%20VIEWS&color=00F5D4&style=flat-square"/>
 
 </div>
 
-<br>
+<br/>
 
-```
- █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
-███████║ ╚████╔╝ ██║   ██║███████╗███████║
-██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
-██║  ██║   ██║   ╚██████╔╝███████║██║  ██║
-╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
 
-        A I   •   M L   •   D E E P   L E A R N I N G
-```
+<br/>
 
-<br>
+## &nbsp;🧬&nbsp; About Me
 
-## `> SYSTEM.IDENTITY`
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-```python
-class AIEngineerInProgress:
+```yaml
+engineer:
+  name: Ayush Ahirrao
+  education: Diploma in Artificial Intelligence
+  role: AI / ML Developer
+  based_in: India
 
-    def __init__(self):
-        self.name = "Ayush Ahirrao"
-        self.education = "Diploma in Artificial Intelligence"
-        self.role = "AI / ML Developer"
-        self.location = "India 🇮🇳"
+  belief: >
+    I don't want to just call an API and call
+    myself an AI engineer — I want to understand
+    the systems underneath: how models learn,
+    how networks represent knowledge, how agents
+    reason and act.
 
-        self.core = {
-            "Machine Learning": "BUILDING ⚡",
-            "Deep Learning": "TRAINING 🧠",
-            "Generative AI": "UP NEXT 🔮",
-            "Agentic AI": "DESTINATION 🚀"
-        }
+  currently:
+    - Deepening Deep Learning fundamentals
+    - Building real-world ML systems end-to-end
+    - Preparing for Transformers → LLMs → RAG
 
-    def current_mission(self):
-        return [
-            "Master Deep Learning",
-            "Build real-world AI systems",
-            "Understand Transformers & LLMs",
-            "Build RAG applications",
-            "Engineer autonomous AI agents"
-        ]
-
-    def status(self):
-        return "Constantly Learning..."
+  destination: Agentic AI
 ```
 
-<br>
+</td>
+<td width="40%" valign="top" align="center">
+
+**Focus Radar**
+
+| Track | Status |
+|:--|:--:|
+| Machine Learning | ✅ Solid |
+| Deep Learning | 🔥 Active |
+| Generative AI | 🔜 Next |
+| Agentic AI | 🎯 Destination |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:00F5D4&height=3&width=100%"/>
+
+<br/>
+
+## &nbsp;🛤️&nbsp; The Learning Path
 
 <div align="center">
 
-### 🧠 NEURAL PATHWAY
-
-*My journey toward intelligent systems*
-
-<br>
-
 ```
-╭──────────────╮
-│    PYTHON    │
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│ DATA SCIENCE │
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│      ML      │  ████████████████████  ✓
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│ DEEP LEARNING│  ███████████████░░░░░  ◉
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│ TRANSFORMERS │  ░░░░░░░░░░░░░░░░░░░  ◌
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│     LLMs     │  ░░░░░░░░░░░░░░░░░░░  ◌
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│     RAG      │  ░░░░░░░░░░░░░░░░░░░  ◌
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│  AGENTIC AI  │  🚀 FINAL DESTINATION
-╰──────────────╯
+  PYTHON ──▶ DATA SCIENCE ──▶ MACHINE LEARNING ──▶ DEEP LEARNING
+                                                          │
+     ┌────────────────────────────────────────────────────┘
+     ▼
+  TRANSFORMERS ──▶ LLMs ──▶ RAG ──▶ AI AGENTS ──▶ 🚀 AGENTIC AI
 ```
+
+| Stage | Progress |
+|:--|:--|
+| Python | `██████████████████░░` 90% |
+| Machine Learning | `█████████████████░░░` 85% |
+| Deep Learning | `████████████░░░░░░░░` 60% |
+| Transformers | `████░░░░░░░░░░░░░░░░` 20% |
+| LLM Engineering | `███░░░░░░░░░░░░░░░░░` 15% |
+| RAG | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Agentic AI | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 </div>
 
-<br>
+<br/>
 
-## `⚡ CURRENT_PROCESS`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
+
+<br/>
+
+## &nbsp;🛠️&nbsp; What I'm Doing Right Now
 
 <table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🧠 LEARNING
-
+### 🧠&nbsp; Learning
 Deep Learning
 Neural Networks
 TensorFlow
@@ -143,8 +120,7 @@ PyTorch
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🔨 BUILDING
-
+### 🔨&nbsp; Building
 ML Systems
 AI Applications
 Backend APIs
@@ -153,8 +129,7 @@ Neural Networks
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🔮 NEXT
-
+### 🔮&nbsp; Next Up
 Transformers
 LLMs
 RAG
@@ -164,168 +139,135 @@ AI Agents
 </tr>
 </table>
 
-<br>
+<br/>
 
-## `🚀 PROJECT.EXE`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:00F5D4&height=3&width=100%"/>
 
-<div align="center">
+<br/>
 
-⚡ *Things I've actually built — not tutorial graveyards.*
+## &nbsp;🚀&nbsp; Featured Builds
 
-</div>
-
-<br>
+<sub>Things I've actually shipped — not tutorial graveyards.</sub>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### 🚦 SMART ACCIDENT RISK PREDICTOR
+### 🚦 Smart Accident Risk Predictor
+`Machine Learning · Risk Prediction`
 
-`ML RISK PREDICTION SYSTEM`
+Predicts accident risk and severity from road and environmental conditions using supervised ML models.
 
-Machine-learning project for predicting **accident risk/severity** from road and environmental conditions.
-
-**PROJECT LINK**
-
-[🔗 **View Repository**](https://github.com/ayushahirrao2007/Smart_Accident_Risk_Predictor)
+**[→ View Repository](https://github.com/ayushahirrao2007/Smart_Accident_Risk_Predictor)**
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### 📉 STARTUP FAILURE PREDICTION
+### 📉 Startup Failure Prediction
+`Machine Learning · Risk Modeling`
 
-`ML RISK PREDICTION ENGINE`
+Predicts startup failure and shutdown risk from founder and startup-level indicators.
 
-Machine-learning system for predicting **startup failure and shutdown risk** using startup and founder indicators.
-
-**PROJECT LINK**
-
-[🔗 **View Repository**](https://github.com/ayushahirrao2007/Startup-Failure_prediction)
+**[→ View Repository](https://github.com/ayushahirrao2007/Startup-Failure_prediction)**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### ⛽ FUELSYNC
+### ⛽ FuelSync
+`Location Intelligence`
 
-`SMART LOCATION SYSTEM`
+Finds nearby Petrol, CNG, and EV charging stations using real-world location data.
 
-A smart application for discovering nearby **Petrol, CNG & EV charging stations** using real-world location data.
-
-**PROJECT LINK**
-
-[🔗 **View Repository**](https://github.com/ayushahirrao2007/FuelSync)
+**[→ View Repository](https://github.com/ayushahirrao2007/FuelSync)**
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### 🧠 STROKE WEBSITE
+### 🧠 Stroke Awareness Platform
+`Healthcare · Education`
 
-`STROKE AWARENESS PLATFORM`
+An educational web platform for stroke awareness, learning resources, and therapeutic information.
 
-An educational web platform focused on **stroke awareness, learning resources, and therapeutics information**.
-
-**PROJECT LINK**
-
-[🔗 **View Repository**](https://github.com/ayushahirrao2007/Stroke_WebsiteMain)
+**[→ View Repository](https://github.com/ayushahirrao2007/Stroke_WebsiteMain)**
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-## `🧰 TECH.ARSENAL`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
+
+<br/>
+
+## &nbsp;🧰&nbsp; Tech Stack
 
 <div align="center">
 
-**{ LANGUAGES }**
-
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,c,html&theme=dark"/>
 
-<br><br>
+<br/><br/>
 
-**{ AI / DEEP LEARNING }**
-
+**AI / Deep Learning**
+<br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-<br>
+<br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas,numpy"/>
 
-<br><br>
+<br/><br/>
 
-**{ BACKEND / DATA }**
-
+**Backend / Data**
+<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,firebase,supabase,mysql,sqlite&theme=dark"/>
 
-<br><br>
+<br/><br/>
 
-**{ CLOUD }**
-
+**Cloud**
+<br/>
 <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify&theme=dark"/>
 
-<br><br>
+<br/><br/>
 
-**{ DEV TOOLS }**
-
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
-<br>
+<br/>
 
-## `🧠 KNOWLEDGE.MAP`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:00F5D4&height=3&width=100%"/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                    AYUSH // AI MATRIX                     ║
-╠══════════════════════════════════════════════════════════╣
-║                                                             ║
-║  Python              ███████████████████░   ACTIVE        ║
-║  Machine Learning    ██████████████████░░   ACTIVE        ║
-║  Scikit-Learn        █████████████████░░░   ACTIVE        ║
-║                                                             ║
-║  Deep Learning       ██████████████░░░░░░   LEARNING      ║
-║  TensorFlow          █████████████░░░░░░░   LEARNING      ║
-║  PyTorch             ███████████░░░░░░░░░   LEARNING      ║
-║                                                             ║
-║  Transformers        ████░░░░░░░░░░░░░░░░   QUEUED        ║
-║  LLM Engineering     ███░░░░░░░░░░░░░░░░░   QUEUED        ║
-║  RAG                 ██░░░░░░░░░░░░░░░░░░   QUEUED        ║
-║  Agentic AI          ██░░░░░░░░░░░░░░░░░░   TARGET        ║
-║                                                             ║
-╚══════════════════════════════════════════════════════════╝
-```
+<br/>
 
-<br>
-
-## `📡 GITHUB.TELEMETRY`
+## &nbsp;📊&nbsp; GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushahirrao2007&show_icons=true&hide_border=true&bg_color=050810&title_color=00E5FF&icon_color=FF2D95&text_color=FFFFFF&ring_color=8A2BE2"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushahirrao2007&layout=compact&hide_border=true&bg_color=050810&title_color=00E5FF&text_color=FFFFFF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayushahirrao2007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=A78BFA&text_color=E6EDF3&ring_color=00F5D4"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushahirrao2007&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3"/>
 
-<br><br>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ayushahirrao2007&hide_border=true&background=050810&ring=8A2BE2&fire=FF2D95&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=ayushahirrao2007&hide_border=true&background=0D1117&ring=00F5D4&fire=A78BFA&currStreakLabel=00F5D4&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"/>
 
-</div>
+<br/><br/>
 
-<br>
-
-## `🌌 CONTRIBUTION.UNIVERSE`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushahirrao2007&bg_color=050810&color=00E5FF&line=8A2BE2&point=FF2D95&area=true&area_color=8A2BE2&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushahirrao2007&bg_color=0D1117&color=00F5D4&line=A78BFA&point=FFFFFF&area=true&area_color=302B63&hide_border=true"/>
 
 </div>
 
-<br>
+<br/>
 
-## `🏆 ACHIEVEMENTS.UNLOCKED`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
+
+<br/>
+
+## &nbsp;🏆&nbsp; Trophy Case
 
 <div align="center">
 
@@ -333,80 +275,80 @@ An educational web platform focused on **stroke awareness, learning resources, a
 
 </div>
 
-<br>
+<br/>
 
-## `🛰️ MISSION.ROADMAP`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:00F5D4&height=3&width=100%"/>
+
+<br/>
+
+## &nbsp;🗺️&nbsp; Roadmap
 
 ```mermaid
 flowchart LR
-    ML["🧠 Machine Learning<br/>COMPLETED"]
-    DL["🔥 Deep Learning<br/>CURRENT"]
-    TF["⚡ Transformers"]
-    LLM["🤖 LLMs"]
-    RAG["🔗 RAG"]
-    AG["🕸️ AI Agents"]
-    AA["🚀 Agentic AI"]
+    ML["🧠 Machine Learning\nCOMPLETED"]:::done
+    DL["🔥 Deep Learning\nCURRENT"]:::current
+    TF["⚡ Transformers"]:::todo
+    LLM["🤖 LLMs"]:::todo
+    RAG["🔗 RAG"]:::todo
+    AG["🕸️ AI Agents"]:::todo
+    AA["🚀 Agentic AI"]:::goal
 
     ML --> DL --> TF --> LLM --> RAG --> AG --> AA
+
+    classDef done fill:#00F5D4,stroke:#0D1117,color:#0D1117,font-weight:bold;
+    classDef current fill:#A78BFA,stroke:#0D1117,color:#0D1117,font-weight:bold;
+    classDef todo fill:#302B63,stroke:#00F5D4,color:#E6EDF3;
+    classDef goal fill:#0D1117,stroke:#00F5D4,color:#00F5D4,font-weight:bold;
 ```
 
-<br>
+<br/>
 
-## `💭 PHILOSOPHY.LOG`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
+
+<br/>
+
+## &nbsp;💭&nbsp; Why AI
 
 <div align="center">
 
-**`> WHY_AI.txt`**
+*I don't want to simply call an AI API and call myself an AI engineer.*
+*I want to understand the systems underneath it —*
+*how models learn, how neural networks represent information,*
+*how LLM applications retrieve knowledge,*
+*how agents reason, use tools, and execute tasks.*
 
-*I don't want to simply call an AI API*
-*and call myself an AI engineer.*
-
-*I want to understand the systems underneath it.*
-
-*How models learn.*
-*How neural networks represent information.*
-*How LLM applications retrieve knowledge.*
-*How agents reason, use tools and execute tasks.*
-
-*Then...*
-
-*I want to build systems that are actually useful.*
+*Then, I want to build systems that are actually useful.*
 
 **— Ayush**
 
 </div>
 
-<br>
-
-<div align="center">
-
-### `> CONNECTION_REQUEST`
-
-Got an interesting AI idea?
-Let's build something that shouldn't exist yet.
-
-<br>
-
-<a href="mailto:ayushahirrao4@gmail.com">
-<img src="https://img.shields.io/badge/INITIALIZE_COLLABORATION-00E5FF?style=for-the-badge&logo=gmail&logoColor=050810&labelColor=00E5FF"/>
-</a>
-
-<br><br>
+<br/>
 
 ```js
 while (alive) {
-    learn();
-    build();
-    fail();
-    debug();
-    improve();
+  learn();
+  build();
+  fail();
+  debug();
+  improve();
 }
 ```
 
+<br/>
+
+<div align="center">
+
+## &nbsp;📡&nbsp; Let's Build Something
+
+Got an interesting AI idea? Let's build something that shouldn't exist yet.
+
+[![Email](https://img.shields.io/badge/INITIALIZE_COLLABORATION-00F5D4?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=00F5D4)](mailto:ayushahirrao4@gmail.com)
+
+<br/><br/>
+
 **SYSTEM STATUS: ONLINE 🟢**
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&customColorList=12,14,18,20,24&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:24243E,50:302B63,100:0F0C29&section=footer"/>
 
 </div>
-
-<!-- ===================== END PROFILE ===================== -->
