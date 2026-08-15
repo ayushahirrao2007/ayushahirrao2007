@@ -1,481 +1,288 @@
-<!-- ===================== FUTURISTIC AI PROFILE ===================== -->
+{align="center"}
+<a href="https://github.com/ayushahirrao2007">{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:0b1120&text=Ayush%20Ahirrao&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=60&descSize=18&animation=fadeIn"/>{=html}
+</a>{=html}
 
-<div align="center">
+<br/>{=html}
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,14,18,20,24&text=AYUSH%20AHIRRAO&fontColor=ffffff&fontSize=55&animation=fadeIn&stroke=00E5FF&strokeWidth=1&desc=Building%20Intelligence%20%E2%80%A2%20One%20Model%20at%20a%20Time&descSize=18&descAlignY=65"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=55&lines=Machine+Learning+%E2%9C%93;Deep+Learning+%E2%86%92+In+Progress;Transformers+%E2%86%92+Next;LLMs+%7C+RAG+%7C+AI+Agents+%E2%86%92+Target" />{=html}
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%3E+Initializing+AI+Developer...;%3E+Machine+Learning+%E2%9C%93;%3E+Deep+Learning+Loading...;%3E+Generative+AI+Next...;%3E+Agentic+AI+is+the+Destination+%F0%9F%9A%80" />
+<br/>{=html}
 
-<br>
+<a href="https://www.linkedin.com/in/ayush-ahirrao-548942369/">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>{=html}
+</a>{=html}   <a href="mailto:ayushahirrao4@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>{=html}
+</a>{=html}   <a href="https://github.com/ayushahirrao2007">{=html}
+<img src="https://img.shields.io/github/followers/ayushahirrao2007?label=Followers&style=flat-square" alt="GitHub followers"/>{=html}
+</a>{=html}  
+<img src="https://komarev.com/ghpvc/?username=ayushahirrao2007&label=Profile%20Views&style=flat-square" alt="Profile views"/>{=html}
+:::
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00E5FF?style=for-the-badge&labelColor=050810"/>
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-8A2BE2?style=for-the-badge&labelColor=050810"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-FF2D95?style=for-the-badge&labelColor=050810"/>
+About
 
-<br><br>
+I'm Ayush Ahirrao, an AI-focused developer currently building my
+foundation across Machine Learning, Deep Learning, and modern AI
+engineering.
 
-<a href="https://linkedin.com/in/ayush-ahirrao-548942369/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/ayush._.ahirrao_23">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://x.com/ahirrao6113">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:ayushahirrao4@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+I enjoy going beyond simply using AI APIs. My goal is to understand how
+models work, turn that understanding into practical systems, and
+gradually move toward LLMs, Retrieval-Augmented Generation (RAG), and
+Agentic AI.
 
-<br><br>
+Learn the fundamentals → build real systems → understand what breaks
+→ improve.
 
-<img src="https://komarev.com/ghpvc/?username=ayushahirrao2007&label=SYSTEM+VISITORS&color=00e5ff&style=flat-square"/>
+Current direction
 
-</div>
+Machine Learning       ████████████████████  Completed
+Deep Learning          ███████████████░░░░░  Building
+Transformers           █████░░░░░░░░░░░░░░░  Next
+LLM Engineering        ███░░░░░░░░░░░░░░░░░  Upcoming
+RAG                    ██░░░░░░░░░░░░░░░░░░  Upcoming
+Agentic AI             ██░░░░░░░░░░░░░░░░░░  Long-term focus
 
----
+What I'm Building Toward
 
-```text
- █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
-███████║ ╚████╔╝ ██║   ██║███████╗███████║
-██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
-██║  ██║   ██║   ╚██████╔╝███████║██║  ██║
-╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
-
-        A I   •   M L   •   D E E P   L E A R N I N G
-```
-
-## `> SYSTEM.IDENTITY`
-
-```python
-class AIEngineerInProgress:
-
-    def __init__(self):
-        self.name = "Ayush Ahirrao"
-        self.education = "Diploma in Artificial Intelligence"
-        self.role = "AI / ML Developer"
-        self.location = "India 🇮🇳"
-
-        self.core = {
-            "Machine Learning": "BUILDING ⚡",
-            "Deep Learning": "TRAINING 🧠",
-            "Generative AI": "UP NEXT 🔮",
-            "Agentic AI": "DESTINATION 🚀"
-        }
-
-    def current_mission(self):
-        return [
-            "Master Deep Learning",
-            "Build real-world AI systems",
-            "Understand Transformers & LLMs",
-            "Build RAG applications",
-            "Engineer autonomous AI agents"
-        ]
-
-    def status(self):
-        return "Constantly Learning..."
-```
-
----
-
-<div align="center">
-
-# 🧠 `NEURAL PATHWAY`
-
-### My journey toward intelligent systems
-
-<br>
-
-```text
-╭──────────────╮
-│    PYTHON    │
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│ DATA SCIENCE │
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│      ML      │  ████████████████████  ✓
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│ DEEP LEARNING│  ███████████████░░░░░  ◉
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│ TRANSFORMERS │  ░░░░░░░░░░░░░░░░░░░  ◌
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│     LLMs     │  ░░░░░░░░░░░░░░░░░░░  ◌
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│     RAG      │  ░░░░░░░░░░░░░░░░░░░  ◌
-╰──────┬───────╯
-       ↓
-╭──────────────╮
-│  AGENTIC AI  │  🚀 FINAL DESTINATION
-╰──────────────╯
-```
-
-</div>
-
----
-
-# ⚡ `CURRENT_PROCESS`
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🧠 LEARNING
-
-`Deep Learning`
-
-`Neural Networks`
-
-`TensorFlow`
-
-`PyTorch`
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔨 BUILDING
-
-`ML Systems`
-
-`AI Applications`
-
-`Backend APIs`
-
-`Neural Networks`
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔮 NEXT
-
-`Transformers`
-
-`LLMs`
-
-`RAG`
-
-`AI Agents`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 `PROJECT.EXE`
-
-<div align="center">
-
-### ⚡ Things I've actually built — not tutorial graveyards.
-
-</div>
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top" align="center">
-
-<h2>🚦 SMART ACCIDENT RISK PREDICTOR</h2>
-
-<code>ML RISK PREDICTION SYSTEM</code>
-
-<br><br>
-
-Machine-learning project for predicting <b>accident risk/severity</b> from road and environmental conditions.
-
-<br><br>
-
-<b>PROJECT LINK</b>
-
-<br><br>
-
-<a href="https://github.com/ayushahirrao2007/Smart_Accident_Risk_Predictor">
-🔗 <b>View Repository</b>
-</a>
-
-<br><br>
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<h2>📉 STARTUP FAILURE PREDICTION</h2>
-
-<code>ML RISK PREDICTION ENGINE</code>
-
-<br><br>
-
-Machine-learning system for predicting <b>startup failure and shutdown risk</b> using startup and founder indicators.
-
-<br><br>
-
-<b>PROJECT LINK</b>
-
-<br><br>
-
-<a href="https://github.com/ayushahirrao2007/Startup-Failure_prediction">
-🔗 <b>View Repository</b>
-</a>
-
-<br><br>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top" align="center">
-
-<h2>⛽ FUELSYNC</h2>
-
-<code>SMART LOCATION SYSTEM</code>
-
-<br><br>
-
-A smart application for discovering nearby <b>Petrol, CNG & EV charging stations</b> using real-world location data.
-
-<br><br>
-
-<b>PROJECT LINK</b>
-
-<br><br>
-
-<a href="https://github.com/ayushahirrao2007/FuelSync">
-🔗 <b>View Repository</b>
-</a>
-
-<br><br>
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<h2>🧠 STROKE WEBSITE</h2>
-
-<code>STROKE AWARENESS PLATFORM</code>
-
-<br><br>
-
-An educational web platform focused on <b>stroke awareness, learning resources, and therapeutics information</b>.
-
-<br><br>
-
-<b>PROJECT LINK</b>
-
-<br><br>
-
-<a href="https://github.com/ayushahirrao2007/Stroke_WebsiteMain">
-🔗 <b>View Repository</b>
-</a>
-
-<br><br>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🧰 `TECH.ARSENAL`
-
-<div align="center">
-
-### `{ LANGUAGES }`
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html&theme=dark"/>
-
-<br><br>
-
-### `{ AI / DEEP LEARNING }`
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-
-<br>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas,numpy"/>
-
-<br><br>
-
-### `{ BACKEND / DATA }`
-
-<img src="https://skillicons.dev/icons?i=fastapi,firebase,supabase,mysql,sqlite&theme=dark"/>
-
-<br><br>
-
-### `{ CLOUD }`
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify&theme=dark"/>
-
-<br><br>
-
-### `{ DEV TOOLS }`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-</div>
-
----
-
-# 🧠 `KNOWLEDGE.MAP`
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  AYUSH // AI MATRIX                     ║
-╠══════════════════════════════════════════════════════════╣
-║                                                        ║
-║  Python              ███████████████████░   ACTIVE     ║
-║  Machine Learning    ██████████████████░░   ACTIVE     ║
-║  Scikit-Learn        █████████████████░░░   ACTIVE     ║
-║                                                        ║
-║  Deep Learning       ██████████████░░░░░░   LEARNING   ║
-║  TensorFlow          █████████████░░░░░░░   LEARNING   ║
-║  PyTorch             ███████████░░░░░░░░░   LEARNING   ║
-║                                                        ║
-║  Transformers        ████░░░░░░░░░░░░░░░░   QUEUED     ║
-║  LLM Engineering     ███░░░░░░░░░░░░░░░░░   QUEUED     ║
-║  RAG                 ██░░░░░░░░░░░░░░░░░░   QUEUED     ║
-║  Agentic AI          ██░░░░░░░░░░░░░░░░░░   TARGET     ║
-║                                                        ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-# 📡 `GITHUB.TELEMETRY`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushahirrao2007&show_icons=true&hide_border=true&bg_color=050810&title_color=00E5FF&icon_color=FF2D95&text_color=FFFFFF&ring_color=8A2BE2"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushahirrao2007&layout=compact&hide_border=true&bg_color=050810&title_color=00E5FF&text_color=FFFFFF"/>
-
-<br><br>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=ayushahirrao2007&hide_border=true&background=050810&ring=8A2BE2&fire=FF2D95&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
-
-</div>
-
----
-
-# 🌌 `CONTRIBUTION.UNIVERSE`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushahirrao2007&bg_color=050810&color=00E5FF&line=8A2BE2&point=FF2D95&area=true&area_color=8A2BE2&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 `ACHIEVEMENTS.UNLOCKED`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushahirrao2007&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1"/>
-
-</div>
-
----
-
-# 🛰️ `MISSION.ROADMAP`
-
-```mermaid
 flowchart LR
-    ML["🧠 Machine Learning<br/>COMPLETED"]
-    DL["🔥 Deep Learning<br/>CURRENT"]
-    TF["⚡ Transformers"]
-    LLM["🤖 LLMs"]
-    RAG["🔗 RAG"]
-    AG["🕸️ AI Agents"]
-    AA["🚀 Agentic AI"]
+    A[Python & Data] --> B[Machine Learning]
+    B --> C[Deep Learning]
+    C --> D[Transformers]
+    D --> E[LLM Engineering]
+    E --> F[RAG Systems]
+    F --> G[AI Agents]
+    G --> H[Agentic AI]
 
-    ML --> DL
-    DL --> TF
-    TF --> LLM
-    LLM --> RAG
-    RAG --> AG
-    AG --> AA
-```
+    classDef done fill:#0f766e,color:#fff,stroke:#14b8a6;
+    classDef current fill:#1d4ed8,color:#fff,stroke:#60a5fa;
+    classDef next fill:#334155,color:#fff,stroke:#94a3b8;
 
----
+    class A,B done;
+    class C current;
+    class D,E,F,G,H next;
 
-# 💭 `PHILOSOPHY.LOG`
+This roadmap is intentionally practical: each stage is meant to result
+in projects, experiments, and working implementations rather than only
+course completion.
 
-<div align="center">
+Selected Projects
 
-```text
-> WHY_AI.txt
+<table>
 
-I don't want to simply call an AI API
-and call myself an AI engineer.
+<tr>
 
-I want to understand the systems underneath it.
+<td width="50%" valign="top">
 
-How models learn.
-How neural networks represent information.
-How LLM applications retrieve knowledge.
-How agents reason, use tools and execute tasks.
+🚦 Smart Accident Risk Predictor
 
-Then...
+Machine Learning · Regression · Streamlit
 
-I want to build systems that are actually useful.
+Predicts accident severity/risk from road and environmental conditions
+using a trained ML pipeline.
 
-                        — Ayush
-```
+Highlights - Feature preprocessing pipeline - Decision Tree
+regression - Model evaluation with RMSE, MAE and R² - Streamlit
+interface
 
-</div>
+<a href="https://github.com/ayushahirrao2007/Smart_Accident_Risk_Predictor">{=html}View
+repository →</a>{=html}
 
----
+</td>
 
-<div align="center">
+<td width="50%" valign="top">
 
-## `> CONNECTION_REQUEST`
+📉 Startup Failure Prediction
 
-### Got an interesting AI idea?
+Machine Learning · Classification · Risk Analysis
 
-**Let's build something that shouldn't exist yet.**
+A predictive ML system designed to estimate startup shutdown risk and
+founder burnout indicators from business and founder-related features.
 
-<br>
+Highlights - Classification workflow - Feature engineering - Model
+evaluation - Risk-oriented prediction
 
-<a href="mailto:ayushahirrao4@gmail.com">
-<img src="https://img.shields.io/badge/INITIALIZE_COLLABORATION-00E5FF?style=for-the-badge&logo=gmail&logoColor=050810&labelColor=00E5FF"/>
-</a>
+<a href="https://github.com/ayushahirrao2007/Startup-Failure_prediction">{=html}View
+repository →</a>{=html}
 
-<br><br>
+</td>
 
-```text
-while (alive) {
-    learn();
-    build();
-    fail();
-    debug();
-    improve();
-}
-```
+</tr>
 
-### `SYSTEM STATUS: ONLINE 🟢`
+<tr>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&customColorList=12,14,18,20,24&section=footer"/>
+<td width="50%" valign="top">
 
-</div>
+⛽ FuelSync
 
-<!-- ===================== END PROFILE ===================== -->
+Location Data · Web Application · APIs
+
+A station-discovery application for finding Petrol, CNG and EV
+charging stations using real-world location data.
+
+Highlights - Location-based search - External API integration -
+Firebase-backed functionality - Practical user-facing application
+
+<a href="https://github.com/ayushahirrao2007/FuelSync">{=html}View
+repository →</a>{=html}
+
+</td>
+
+<td width="50%" valign="top">
+
+🧠 Stroke Awareness Platform
+
+Web Development · Educational Platform
+
+An educational platform focused on stroke awareness, learning resources,
+and structured therapeutic information.
+
+Highlights - Structured learning content - Resource and PDF
+support - Responsive web experience - Content-focused architecture
+
+<a href="https://github.com/ayushahirrao2007/Stroke_WebsiteMain">{=html}View
+repository →</a>{=html}
+
+</td>
+
+</tr>
+
+</table>
+
+Technical Stack
+
+Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html&theme=dark" />{=html}
+
+</p>
+
+Machine Learning & Deep Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />{=html}
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas,numpy" />{=html}
+
+</p>
+
+Backend, Databases & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,firebase,supabase,mysql,sqlite,aws,gcp,vercel,netlify&theme=dark" />{=html}
+
+</p>
+
+Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />{=html}
+
+</p>
+
+Learning & Engineering Principles
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+01 --- Fundamentals
+
+Understand the mathematics, algorithms, and architecture before hiding
+behind abstractions.
+
+</td>
+
+<td align="center" width="33%">
+
+02 --- Build
+
+Turn concepts into working projects instead of collecting tutorials and
+certificates.
+
+</td>
+
+<td align="center" width="33%">
+
+03 --- Iterate
+
+Debug, evaluate, identify weaknesses, and improve the system based on
+evidence.
+
+</td>
+
+</tr>
+
+</table>
+
+GitHub Activity
+
+::: {align="center"}
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayushahirrao2007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>{=html}
+ 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushahirrao2007&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages"/>{=html}
+
+<br/>{=html}<br/>{=html}
+
+<img width="75%" src="https://streak-stats.demolab.com?user=ayushahirrao2007&hide_border=true&theme=transparent" alt="GitHub streak"/>{=html}
+:::
+
+Contribution Graph
+
+::: {align="center"}
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushahirrao2007&bg_color=00000000&color=38BDF8&line=6366F1&point=F8FAFC&area=true&hide_border=true" alt="GitHub contribution graph"/>{=html}
+:::
+
+Beyond the Code
+
+I'm particularly interested in the transition from traditional ML to
+modern AI systems:
+
+Data
+  ↓
+Models
+  ↓
+Neural Networks
+  ↓
+Transformers
+  ↓
+Large Language Models
+  ↓
+Retrieval + Tools
+  ↓
+AI Agents
+  ↓
+Reliable Agentic Systems
+
+The goal isn't to chase every new AI trend.
+
+The goal is to become good enough to understand the technology, build
+with it, and know when it actually makes sense to use it.
+
+Let's Connect
+
+Have an interesting AI idea, a project worth discussing, or something
+that can be improved?
+
+I'm open to learning, collaborating, building, and discussing
+practical AI engineering.
+
+::: {align="center"}
+<a href="mailto:ayushahirrao4@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Let's%20Build%20Something-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>{=html}
+</a>{=html}
+
+<br/>{=html}<br/>{=html}
+
+learn → build → test → fail → debug → improve → repeat
+
+Building toward intelligent systems, one project at a time.
+
+<br/>{=html}
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:111827,100:0b1120&section=footer"/>{=html}
