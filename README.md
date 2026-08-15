@@ -33,6 +33,9 @@
 
 </div>
 
+<br>
+
+```
  █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
 ██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
 ███████║ ╚████╔╝ ██║   ██║███████╗███████║
@@ -41,9 +44,13 @@
 ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
         A I   •   M L   •   D E E P   L E A R N I N G
+```
 
-> SYSTEM.IDENTITY
+<br>
 
+## `> SYSTEM.IDENTITY`
+
+```python
 class AIEngineerInProgress:
 
     def __init__(self):
@@ -70,15 +77,19 @@ class AIEngineerInProgress:
 
     def status(self):
         return "Constantly Learning..."
-
-<div align="center">
-
-🧠 NEURAL PATHWAY
-
-My journey toward intelligent systems
+```
 
 <br>
 
+<div align="center">
+
+### 🧠 NEURAL PATHWAY
+
+*My journey toward intelligent systems*
+
+<br>
+
+```
 ╭──────────────╮
 │    PYTHON    │
 ╰──────┬───────╯
@@ -110,240 +121,190 @@ My journey toward intelligent systems
 ╭──────────────╮
 │  AGENTIC AI  │  🚀 FINAL DESTINATION
 ╰──────────────╯
+```
 
 </div>
 
-⚡ CURRENT_PROCESS
+<br>
 
-<table>
+## `⚡ CURRENT_PROCESS`
+
+<table width="100%">
 <tr>
+<td width="33%" align="center" valign="top">
 
-<td width="33%" align="center">
-
-🧠 LEARNING
+### 🧠 LEARNING
 
 Deep Learning
-
 Neural Networks
-
 TensorFlow
-
 PyTorch
 
 </td>
+<td width="33%" align="center" valign="top">
 
-<td width="33%" align="center">
-
-🔨 BUILDING
+### 🔨 BUILDING
 
 ML Systems
-
 AI Applications
-
 Backend APIs
-
 Neural Networks
 
 </td>
+<td width="33%" align="center" valign="top">
 
-<td width="33%" align="center">
-
-🔮 NEXT
+### 🔮 NEXT
 
 Transformers
-
 LLMs
-
 RAG
-
 AI Agents
 
 </td>
-
 </tr>
 </table>
 
-🚀 PROJECT.EXE
+<br>
+
+## `🚀 PROJECT.EXE`
 
 <div align="center">
 
-⚡ Things I've actually built — not tutorial graveyards.
+⚡ *Things I've actually built — not tutorial graveyards.*
 
 </div>
 
-<table>
+<br>
 
+<table width="100%">
 <tr>
-
 <td width="50%" valign="top" align="center">
 
-<h2>🚦 SMART ACCIDENT RISK PREDICTOR</h2>
+### 🚦 SMART ACCIDENT RISK PREDICTOR
 
-<code>ML RISK PREDICTION SYSTEM</code>
+`ML RISK PREDICTION SYSTEM`
 
-<br><br>
+Machine-learning project for predicting **accident risk/severity** from road and environmental conditions.
 
-Machine-learning project for predicting <b>accident risk/severity</b> from road and environmental conditions.
+**PROJECT LINK**
 
-<br><br>
-
-<b>PROJECT LINK</b>
-
-<br><br>
-
-<a href="https://github.com/ayushahirrao2007/Smart_Accident_Risk_Predictor">
-🔗 <b>View Repository</b>
-</a>
-
-<br><br>
+[🔗 **View Repository**](https://github.com/ayushahirrao2007/Smart_Accident_Risk_Predictor)
 
 </td>
-
 <td width="50%" valign="top" align="center">
 
-<h2>📉 STARTUP FAILURE PREDICTION</h2>
+### 📉 STARTUP FAILURE PREDICTION
 
-<code>ML RISK PREDICTION ENGINE</code>
+`ML RISK PREDICTION ENGINE`
 
-<br><br>
+Machine-learning system for predicting **startup failure and shutdown risk** using startup and founder indicators.
 
-Machine-learning system for predicting <b>startup failure and shutdown risk</b> using startup and founder indicators.
+**PROJECT LINK**
 
-<br><br>
-
-<b>PROJECT LINK</b>
-
-<br><br>
-
-<a href="https://github.com/ayushahirrao2007/Startup-Failure_prediction">
-🔗 <b>View Repository</b>
-</a>
-
-<br><br>
+[🔗 **View Repository**](https://github.com/ayushahirrao2007/Startup-Failure_prediction)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top" align="center">
 
-<h2>⛽ FUELSYNC</h2>
+### ⛽ FUELSYNC
 
-<code>SMART LOCATION SYSTEM</code>
+`SMART LOCATION SYSTEM`
 
-<br><br>
+A smart application for discovering nearby **Petrol, CNG & EV charging stations** using real-world location data.
 
-A smart application for discovering nearby <b>Petrol, CNG & EV charging stations</b> using real-world location data.
+**PROJECT LINK**
 
-<br><br>
-
-<b>PROJECT LINK</b>
-
-<br><br>
-
-<a href="https://github.com/ayushahirrao2007/FuelSync">
-🔗 <b>View Repository</b>
-</a>
-
-<br><br>
+[🔗 **View Repository**](https://github.com/ayushahirrao2007/FuelSync)
 
 </td>
-
 <td width="50%" valign="top" align="center">
 
-<h2>🧠 STROKE WEBSITE</h2>
+### 🧠 STROKE WEBSITE
 
-<code>STROKE AWARENESS PLATFORM</code>
+`STROKE AWARENESS PLATFORM`
 
-<br><br>
+An educational web platform focused on **stroke awareness, learning resources, and therapeutics information**.
 
-An educational web platform focused on <b>stroke awareness, learning resources, and therapeutics information</b>.
+**PROJECT LINK**
 
-<br><br>
-
-<b>PROJECT LINK</b>
-
-<br><br>
-
-<a href="https://github.com/ayushahirrao2007/Stroke_WebsiteMain">
-🔗 <b>View Repository</b>
-</a>
-
-<br><br>
+[🔗 **View Repository**](https://github.com/ayushahirrao2007/Stroke_WebsiteMain)
 
 </td>
-
 </tr>
-
 </table>
 
-🧰 TECH.ARSENAL
+<br>
+
+## `🧰 TECH.ARSENAL`
 
 <div align="center">
 
-{ LANGUAGES }
+**{ LANGUAGES }**
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html&theme=dark"/>
 
 <br><br>
 
-{ AI / DEEP LEARNING }
+**{ AI / DEEP LEARNING }**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-
 <br>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas,numpy"/>
 
 <br><br>
 
-{ BACKEND / DATA }
+**{ BACKEND / DATA }**
 
 <img src="https://skillicons.dev/icons?i=fastapi,firebase,supabase,mysql,sqlite&theme=dark"/>
 
 <br><br>
 
-{ CLOUD }
+**{ CLOUD }**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify&theme=dark"/>
 
 <br><br>
 
-{ DEV TOOLS }
+**{ DEV TOOLS }**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
-🧠 KNOWLEDGE.MAP
+<br>
 
+## `🧠 KNOWLEDGE.MAP`
+
+```
 ╔══════════════════════════════════════════════════════════╗
-║                  AYUSH // AI MATRIX                     ║
+║                    AYUSH // AI MATRIX                     ║
 ╠══════════════════════════════════════════════════════════╣
-║                                                        ║
-║  Python              ███████████████████░   ACTIVE     ║
-║  Machine Learning    ██████████████████░░   ACTIVE     ║
-║  Scikit-Learn        █████████████████░░░   ACTIVE     ║
-║                                                        ║
-║  Deep Learning       ██████████████░░░░░░   LEARNING   ║
-║  TensorFlow          █████████████░░░░░░░   LEARNING   ║
-║  PyTorch             ███████████░░░░░░░░░   LEARNING   ║
-║                                                        ║
-║  Transformers        ████░░░░░░░░░░░░░░░░   QUEUED     ║
-║  LLM Engineering     ███░░░░░░░░░░░░░░░░░   QUEUED     ║
-║  RAG                 ██░░░░░░░░░░░░░░░░░░   QUEUED     ║
-║  Agentic AI          ██░░░░░░░░░░░░░░░░░░   TARGET     ║
-║                                                        ║
+║                                                             ║
+║  Python              ███████████████████░   ACTIVE        ║
+║  Machine Learning    ██████████████████░░   ACTIVE        ║
+║  Scikit-Learn        █████████████████░░░   ACTIVE        ║
+║                                                             ║
+║  Deep Learning       ██████████████░░░░░░   LEARNING      ║
+║  TensorFlow          █████████████░░░░░░░   LEARNING      ║
+║  PyTorch             ███████████░░░░░░░░░   LEARNING      ║
+║                                                             ║
+║  Transformers        ████░░░░░░░░░░░░░░░░   QUEUED        ║
+║  LLM Engineering     ███░░░░░░░░░░░░░░░░░   QUEUED        ║
+║  RAG                 ██░░░░░░░░░░░░░░░░░░   QUEUED        ║
+║  Agentic AI          ██░░░░░░░░░░░░░░░░░░   TARGET        ║
+║                                                             ║
 ╚══════════════════════════════════════════════════════════╝
+```
 
-📡 GITHUB.TELEMETRY
+<br>
+
+## `📡 GITHUB.TELEMETRY`
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushahirrao2007&show_icons=true&hide_border=true&bg_color=050810&title_color=00E5FF&icon_color=FF2D95&text_color=FFFFFF&ring_color=8A2BE2"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushahirrao2007&layout=compact&hide_border=true&bg_color=050810&title_color=00E5FF&text_color=FFFFFF"/>
 
 <br><br>
@@ -352,7 +313,9 @@ An educational web platform focused on <b>stroke awareness, learning resources, 
 
 </div>
 
-🌌 CONTRIBUTION.UNIVERSE
+<br>
+
+## `🌌 CONTRIBUTION.UNIVERSE`
 
 <div align="center">
 
@@ -360,7 +323,9 @@ An educational web platform focused on <b>stroke awareness, learning resources, 
 
 </div>
 
-🏆 ACHIEVEMENTS.UNLOCKED
+<br>
+
+## `🏆 ACHIEVEMENTS.UNLOCKED`
 
 <div align="center">
 
@@ -368,8 +333,11 @@ An educational web platform focused on <b>stroke awareness, learning resources, 
 
 </div>
 
-🛰️ MISSION.ROADMAP
+<br>
 
+## `🛰️ MISSION.ROADMAP`
+
+```mermaid
 flowchart LR
     ML["🧠 Machine Learning<br/>COMPLETED"]
     DL["🔥 Deep Learning<br/>CURRENT"]
@@ -379,43 +347,42 @@ flowchart LR
     AG["🕸️ AI Agents"]
     AA["🚀 Agentic AI"]
 
-    ML --> DL
-    DL --> TF
-    TF --> LLM
-    LLM --> RAG
-    RAG --> AG
-    AG --> AA
+    ML --> DL --> TF --> LLM --> RAG --> AG --> AA
+```
 
-💭 PHILOSOPHY.LOG
+<br>
+
+## `💭 PHILOSOPHY.LOG`
 
 <div align="center">
 
-> WHY_AI.txt
+**`> WHY_AI.txt`**
 
-I don't want to simply call an AI API
-and call myself an AI engineer.
+*I don't want to simply call an AI API*
+*and call myself an AI engineer.*
 
-I want to understand the systems underneath it.
+*I want to understand the systems underneath it.*
 
-How models learn.
-How neural networks represent information.
-How LLM applications retrieve knowledge.
-How agents reason, use tools and execute tasks.
+*How models learn.*
+*How neural networks represent information.*
+*How LLM applications retrieve knowledge.*
+*How agents reason, use tools and execute tasks.*
 
-Then...
+*Then...*
 
-I want to build systems that are actually useful.
+*I want to build systems that are actually useful.*
 
-                        — Ayush
+**— Ayush**
 
 </div>
 
+<br>
+
 <div align="center">
 
-> CONNECTION_REQUEST
+### `> CONNECTION_REQUEST`
 
 Got an interesting AI idea?
-
 Let's build something that shouldn't exist yet.
 
 <br>
@@ -426,6 +393,7 @@ Let's build something that shouldn't exist yet.
 
 <br><br>
 
+```js
 while (alive) {
     learn();
     build();
@@ -433,8 +401,9 @@ while (alive) {
     debug();
     improve();
 }
+```
 
-SYSTEM STATUS: ONLINE 🟢
+**SYSTEM STATUS: ONLINE 🟢**
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&customColorList=12,14,18,20,24&section=footer"/>
 
